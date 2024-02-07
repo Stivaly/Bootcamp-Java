@@ -1,0 +1,62 @@
+nav {
+    height: 75px;
+    background: #E83E8C 0% 0% no-repeat padding-box;
+}
+
+.logonav {
+    top: 12px;
+    left: 40px;
+    width: 132px;
+    height: 53px;
+}
+
+.menu {
+    top: 17px;
+    left: 219px;
+    width: 59px;
+    height: 42px;
+    border: 1px solid #FFFFFF80;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.titulo {
+    text-align: center;
+    font: normal normal bold 60px/82px Open Sans;
+    letter-spacing: 0px;
+    color: #707070;
+}
+
+h1 {
+    text-align: left;
+    font: normal normal bold 40px/55px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+
+footer {
+    height: 184px;
+    background: #E83E8C 0% 0% no-repeat padding-box;
+}
+
+.logofooter {
+    width: 36px;
+    height: 67px;
+}
+
+a {
+    font: normal normal normal 16px/22px Open Sans;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.icons-section {
+    height: 170px;
+    background: #17A2B8 0% 0% no-repeat padding-box;
+}
+
+svg {
+    width: 80px;
+    height: 53px;
+    fill: #FFFFFF;
+}
